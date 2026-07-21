@@ -1,0 +1,8 @@
+fruits/
+data/sample/
+results/
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.DS_Store
+.lh/
