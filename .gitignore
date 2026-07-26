@@ -1,10 +1,22 @@
+# Données volumineuses 
 fruits/
 data/sample/
 results/
-.ipynb_checkpoints/
+
+# Python
 __pycache__/
 *.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# macOS
 .DS_Store
 .lh/
+
+# Secrets / clés SSH
 *.pem
 *.ppk
+
+# Dossier de travail de la présentation
+presentation/
