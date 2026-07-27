@@ -35,8 +35,10 @@
 <text x="200" y="215" font-family="Calibri, Arial, sans-serif" font-size="10.5" fill="#222222">&gt;&gt; Négocie et alloue</text>
 <text x="207" y="228" font-family="Calibri, Arial, sans-serif" font-size="10.5" fill="#222222">les ressources</text>
 
-<!-- line clustermanager -> worker node 1 -->
-<line x1="335" y1="222" x2="400" y2="182" stroke="#3B4252" stroke-width="1.5"/>
+<!-- lines clustermanager -> worker nodes 1, 2, 3 -->
+<line x1="335" y1="200" x2="400" y2="182" stroke="#3B4252" stroke-width="1.5"/>
+<line x1="335" y1="250" x2="400" y2="286" stroke="#3B4252" stroke-width="1.5"/>
+<line x1="335" y1="285" x2="400" y2="334" stroke="#3B4252" stroke-width="1.5"/>
 
 <!-- Worker node 1 : définition complète (le premier en partant du haut) -->
 <rect x="400" y="110" width="170" height="145" rx="6" fill="#F5EDDE" stroke="#222222" stroke-width="1.5"/>
