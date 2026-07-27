@@ -2,7 +2,7 @@
 
 Stéphanie Duhem — Master AI Engineer
 
-Mise en place d'une chaîne de traitement Big Data (PySpark) pour la start-up Fruits!, avec une architecture cloud AWS (S3, IAM, EMR).
+Mise en place d'une chaîne de traitement Big Data (PySpark) pour la start-up Fruits! avec une architecture cloud AWS (S3, IAM, EMR).
 
 ## Structure du dépôt
 
@@ -14,7 +14,9 @@ Mise en place d'une chaîne de traitement Big Data (PySpark) pour la start-up Fr
   - `prepare_sample.py` — génère l'échantillon local de développement (300 images, 10 classes)
   - `bootstrap_emr.sh` — script de bootstrap du cluster EMR
 - documentation_presentation/
-  - `schema_architecture_spark.svg` — schéma de l'architecture Spark (driver program, cluster manager, worker node, executor)
+  - `schema_architecture_spark.svg` — schéma de l'architecture Spark 
   - `schema_pipeline_pyspark.svg` — schéma de la chaîne de traitement PySpark
 - P8_Mode_opératoire/ — notebook et documentation laissés par l'alternant, point de départ du projet
+  - `P8_Notebook_Linux_EMR_PySpark_V1.0.ipynb` — travaux préliminaires de l'alternant 
+  - `img/` — captures d'écran
 - `requirements.txt` — dépendances Python
