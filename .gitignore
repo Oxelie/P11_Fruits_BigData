@@ -18,5 +18,6 @@ __pycache__/
 *.pem
 *.ppk
 
-# Dossier de travail de la présentation
+# Dossiers de travail
 presentation/
+livrables_finaux/
