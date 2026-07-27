@@ -16,7 +16,7 @@ Mise en place d'une chaîne de traitement Big Data (PySpark) pour la start-up Fr
 - documentation_presentation/
   - `schema_architecture_spark.svg` — schéma de l'architecture Spark 
   - `schema_pipeline_pyspark.svg` — schéma de la chaîne de traitement PySpark
-- P8_Mode_opératoire/ — notebook et documentation laissés par l'alternant, point de départ du projet
+- P8_Mode_opératoire/ — récupération du notebook et de la documentation de l'alternant
   - `P8_Notebook_Linux_EMR_PySpark_V1.0.ipynb` — travaux préliminaires de l'alternant 
   - `img/` — captures d'écran
 - `requirements.txt` — dépendances Python
